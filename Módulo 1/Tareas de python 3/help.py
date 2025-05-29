@@ -1,7 +1,7 @@
 articulos = ["bolsa de pan", "refresco", "café", "arroz", "galletas"]
 precios = ["$5", "$5", "$3", "$2", "$3"]
 
-print("Este es su carrito de compras")
+print("Este es su carrito de compras\n")
 print("Elija una de las siguientes opciones:")
 print("1. Añadir.")
 print("2. Ver.")
